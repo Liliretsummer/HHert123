@@ -1,7 +1,7 @@
 {
-    "name": "Xray2",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "HHray",
+    "description": "HHray",
+    "keywords": ["HHray"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/jth445600/HerokuXray/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Liliretsummer/Xray2",
-    "repository": "https://github.com/Liliretsummer/Xray2",
+    "website": "https://github.com/Liliretsummer/HHert123",
+    "repository": "https://github.com/Liliretsummer/HHert123",
     "stack": "container"
 }
